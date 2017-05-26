@@ -1,5 +1,5 @@
 # Titanic 
-Data Wrangling Project II  
+Data Wrangling Project II  by **Chirag Pandya** May 26, 2017
 
 In this project, I am working on the famous Titanic Data set. The data set contains details about passengers survival and data associated with these passengers.The project focuses on dealing with missing values and generating inferencial columms to map survival expectancy.  
 
